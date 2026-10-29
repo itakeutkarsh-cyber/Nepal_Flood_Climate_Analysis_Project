@@ -118,18 +118,15 @@ Nepal_flood_climate_analysis_report_Project/
     └── page-2-river-environmental-analysis.png
 ```
 
-*Update the screenshot filenames in this structure to match the actual names of the images you upload.*
 
 ## Dashboard Screenshots
 
 ### Page 1 — Nepal Climate Overview
 
-![Page 1 Dashboard](Nepal_project_Dashboard_Screenshots/page-1-climate-overview.png)
-
+(![Page 1 Dashboard](page-1-climate-overview.png)
 ### Page 2 — River & Environmental Analysis
 
-![Page 2 Dashboard](Nepal_project_Dashboard_Screenshots/page-2-river-environmental-analysis.png)
-
+![Page 2 Dashboard](page-2-river-environmental-analysis.png)
 ## How to Use This Project
 
 1. Download or clone the repository.
